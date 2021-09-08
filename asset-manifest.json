@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/google-homepage/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/google-homepage/static/js/main.4a8b09c9.chunk.js",
+    "main.js.map": "/google-homepage/static/js/main.4a8b09c9.chunk.js.map",
+    "runtime-main.js": "/google-homepage/static/js/runtime-main.3330f369.js",
+    "runtime-main.js.map": "/google-homepage/static/js/runtime-main.3330f369.js.map",
+    "static/js/2.68f3cc4b.chunk.js": "/google-homepage/static/js/2.68f3cc4b.chunk.js",
+    "static/js/2.68f3cc4b.chunk.js.map": "/google-homepage/static/js/2.68f3cc4b.chunk.js.map",
+    "index.html": "/google-homepage/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/google-homepage/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.68f3cc4b.chunk.js.LICENSE.txt": "/google-homepage/static/js/2.68f3cc4b.chunk.js.LICENSE.txt",
+    "static/media/apps.4ae26f21.svg": "/google-homepage/static/media/apps.4ae26f21.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3330f369.js",
+    "static/js/2.68f3cc4b.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.4a8b09c9.chunk.js"
+  ]
+}
